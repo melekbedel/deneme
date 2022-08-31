@@ -1,6 +1,6 @@
 # ilk proje denemesi
 ## açıklama
 ilk projemizin açıklaması bu readme dosyasının içerisinde yer almakta.
-- readme dosyamda değişiklik yapmam gerekti
+- bu readme dosyasını markdown kullanarak oluşturdum
 [instagram adresime gitmek için tıklayınız](https://www.instagram.com/melekbdd/)
 
