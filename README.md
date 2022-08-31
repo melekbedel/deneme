@@ -1,5 +1,5 @@
-#ilk proje denemesi
+ilk proje denemesi
 evet dostlar ilk projemizin açıklaması bu readme dosyasının içerisinde yer almakta.
-pull yapımını öğrenmek için readme dosyamda değişiklik yapıyorum
+readme dosyamda değişiklik yapmam gerekti
 (https://www.instagram.com/melekbdd/)
 
